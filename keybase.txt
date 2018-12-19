@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vincevrp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vince.sh
+  * I am vincevrp (https://keybase.io/vincevrp) on keybase.
+  * I have a public key ASD9OxayK0WjidNbUSxXHm7koXyAileZhEECOZN3PgsoIwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fd3b16b22b45a389d35b512c571e6ee4a17c808a57998441023993773e0b28230a",
+      "host": "keybase.io",
+      "kid": "0120fd3b16b22b45a389d35b512c571e6ee4a17c808a57998441023993773e0b28230a",
+      "uid": "a4bfde47fbae42ec8880e6146cb0ce19",
+      "username": "vincevrp"
+    },
+    "merkle_root": {
+      "ctime": 1545261095,
+      "hash": "bceedfafe94baaa1981a5a46b182f956ac4082e0daf82383e4e7999e2d45a7ecd680027e927326e58f4380be39685cdef0baaae13ee38b25468df6864f512376",
+      "hash_meta": "5e64470d04b44b27a787f6b0cc8f18f0e0543614f47017b427d156086685f414",
+      "seqno": 4172005
+    },
+    "service": {
+      "entropy": "T22R92y4moDXNLpKUN4NnWZD",
+      "hostname": "vince.sh",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.11.0"
+  },
+  "ctime": 1545261207,
+  "expire_in": 504576000,
+  "prev": "23c6867354303a8f205d46acfeb527b3a5f0e1572fc95cf8bacd0f64ee7eb0c1",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/TsWsitFo4nTW1EsVx5u5KF8gIpXmYRBAjmTdz4LKCMKp3BheWxvYWTESpcCE8QgI8aGc1QwOo8gXUas/rUns6Xw4VcvyVz4us0PZO5+sMHEIGvSCQcKInh/ckQfx1GUCvvoSfbxcKjC8/gclz4PYRbHAgHCo3NpZ8RAQpjthRSw5ffZ5jLbQwImKpUU1PK9/xGTe89/Q6prOjRAc/xU80YAeG78YjwkpTPKmiyxYHW6wulJgCqS+3QNBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILtxigSIVdS42a6Z8RqogDGwYy5XMLmxbZ8ObBR2hMtBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vincevrp
+
+==================================================================
